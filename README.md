@@ -51,7 +51,7 @@
       <td class="tg-lboi">Data Analyze:<br>Airplane Customer Satisfaction</td>
       <td class="tg-lboi">2021.03. ~ 2021.06.</td>
       <td class="tg-lboi"></td>
-      <td class="tg-lboi"></td>
+      <td class="tg-lboi"><a href="http://www.naver.com" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="tg-lboi">UnI Dancer</td>
