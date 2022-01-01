@@ -9,7 +9,8 @@ I'm studying computer science at Gachon Univ.
 
 
 
-### Tech Stack
+### Languages & Tools
+Python, Android, JAVA, C, MySQL
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young2218&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
