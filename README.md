@@ -39,7 +39,7 @@
       <td class="tg-lboi">Codename: RUN</td>
       <td class="tg-lboi">2021.03.~2021.06.</td>
       <td class="tg-lboi">This app is a running game app that helps you run happily.You can become an agent and clear the mission according to the app's instructions.This was a team project in mobile programming course. My part was automating progress, recognizing and displaying user's running using GPS. </td>
-      <td class="tg-lboi"><a href="https://github.com/GC211MP" target="_blank">🔗...</a></td>
+      <td class="tg-lboi"><a href="https://github.com/GC211MP" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="tg-lboi">CoSu</td>
