@@ -1,13 +1,13 @@
 
-### Hi there 👋  <br> I'm studying computer science at Gachon Univ. 
+### Hi there 👋  <br>
 
 
 
 
 
 ### Languages & Tools 
-> **Python(😍 favorite), Android, JAVA, C, MySQL**
-> <br> Expreience: Unity, Firebase, JavaSrcipt, HTML5, CSS <br><br>
+> **Python(😍 favorite), Android, JAVA, C**
+> <br> Expreience: Unity, WebGL, MySQL, Firebase, JavaSrcipt, HTML5, CSS <br><br>
 
 
 
