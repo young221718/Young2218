@@ -6,7 +6,7 @@
 
 
 ### Languages & Tools 
-> **Python(😍 favorite), Android, JAVA, C**
+> **Python (Pytorch), Computer Vision, Machine Learning**
 > <br> Expreience: Unity, WebGL, MySQL, Firebase, JavaSrcipt, HTML5, CSS <br><br>
 
 
